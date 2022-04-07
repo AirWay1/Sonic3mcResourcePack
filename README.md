@@ -2,4 +2,4 @@
 Requires version 1.18.x.
 
 ## For Contributors
-(Creaating a resource pack)[https://minecraft.fandom.com/wiki/Tutorials/Creating_a_resource_pack]
+[Creaating a resource pack - Minecraft Fandom Wiki](https://minecraft.fandom.com/wiki/Tutorials/Creating_a_resource_pack)
